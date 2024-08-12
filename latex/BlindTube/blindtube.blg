@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: blindtube.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Database file #1: referencias.bib
+Warning--empty journal in proedad2023
+Warning--empty journal in semish2016
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            506 strings with 4438 characters,
+and the built_in function-call counts, 547 in all, are:
+= -- 50
+> -- 31
+< -- 0
++ -- 12
+- -- 10
+* -- 31
+:= -- 107
+add.period$ -- 8
+call.type$ -- 2
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 20
+empty$ -- 35
+format.name$ -- 10
+if$ -- 104
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 15
+num.names$ -- 4
+pop$ -- 13
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 15
+stack$ -- 0
+substring$ -- 10
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 2
+while$ -- 4
+width$ -- 3
+write$ -- 24
+(There were 2 warnings)
