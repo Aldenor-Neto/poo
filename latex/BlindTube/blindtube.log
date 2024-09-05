@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.7)  9 AUG 2024 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.7)  30 AUG 2024 19:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -99,9 +99,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 17.
  [1
 
-{C:/Users/alden/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] 
-[5]
-(blindtube.bbl) [6] (blindtube.aux)
+{C:/Users/alden/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (0.73177pt too wide) in paragraph at lines 27--28
+[]\T1/cmr/bx/n/10.95 Palavras-chave: \T1/cmr/m/n/10.95 Aces-si-bi-li-dade, In-c
+lu-são, De-fi-ci-en-cia Vi-sual, apli-
+ []
+
+[2] [3] [4] (blindtube.bbl) [5] (blindtube.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -126,9 +130,9 @@ ts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\alden\AppData\Local\MiKT
 eX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\alden\AppData\Loca
 l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\alden\AppDat
 a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
-Output written on blindtube.pdf (6 pages, 132933 bytes).
+Output written on blindtube.pdf (5 pages, 129504 bytes).
 PDF statistics:
- 383 PDF objects out of 1000 (max. 8388607)
+ 374 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
